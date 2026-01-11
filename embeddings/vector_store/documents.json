@@ -1,0 +1,1794 @@
+[
+  {
+    "text": "Insomnia is a condition where you regularly have problems sleeping. It can often be improved by changing sleeping habits.",
+    "metadata": {
+      "condition": "Insomnia",
+      "section": "overview",
+      "urgency": "low"
+    }
+  },
+  {
+    "text": "difficulty falling asleep, waking up several times during the night, lying awake at night, waking up early and unable to go back to sleep, feeling tired after waking, difficulty napping during the day, daytime tiredness, irritability, or concentration problems",
+    "metadata": {
+      "condition": "Insomnia",
+      "section": "symptoms",
+      "urgency": "medium"
+    }
+  },
+  {
+    "text": "{\n  \"adults\": \"7 to 9 hours\",\n  \"children\": \"9 to 13 hours\",\n  \"toddlers_and_babies\": \"12 to 17 hours\"\n}",
+    "metadata": {
+      "condition": "Insomnia",
+      "section": "sleep_requirements",
+      "urgency": "low"
+    }
+  },
+  {
+    "text": "stress, anxiety, or depression, noise, room too hot or cold, uncomfortable bed, alcohol, caffeine, nicotine, illegal drugs (cocaine, ecstasy), jet lag, shift work",
+    "metadata": {
+      "condition": "Insomnia",
+      "section": "causes",
+      "urgency": "low"
+    }
+  },
+  {
+    "text": "maintain consistent sleep schedule, relax 1 hour before bed (bath, read), keep bedroom dark and quiet, exercise regularly during the day, ensure comfortable mattress, pillows, and covers, avoid alcohol, caffeine, tea, coffee 6 hours before bed, avoid large meals late at night, avoid exercising within 4 hours of bedtime, avoid devices before bed, avoid daytime naps, do not oversleep after a bad night's sleep",
+    "metadata": {
+      "condition": "Insomnia",
+      "section": "self_care",
+      "urgency": "low"
+    }
+  },
+  {
+    "text": "{\n  \"see_gp\": [\n    \"sleeping problems persist despite habit changes\",\n    \"insomnia has lasted for months\",\n    \"insomnia affects daily life and coping ability\"\n  ]\n}",
+    "metadata": {
+      "condition": "Insomnia",
+      "section": "red_flags",
+      "urgency": "high"
+    }
+  },
+  {
+    "text": "https://www.nhs.uk/conditions/insomnia/",
+    "metadata": {
+      "condition": "Insomnia",
+      "section": "references",
+      "urgency": "low"
+    }
+  },
+  {
+    "text": "COVID-19 is an illness caused by the SARS-CoV-2 virus, affecting the respiratory system and sometimes multiple organs.",
+    "metadata": {
+      "condition": "COVID-19",
+      "section": "overview",
+      "urgency": "low"
+    }
+  },
+  {
+    "text": "dry cough, shortness of breath, loss of taste or smell, extreme fatigue, digestive issues: upset stomach, vomiting, diarrhea, headaches, body or muscle aches, fever or chills, coldlike symptoms: congestion, runny nose, sore throat",
+    "metadata": {
+      "condition": "COVID-19",
+      "section": "symptoms",
+      "urgency": "medium"
+    }
+  },
+  {
+    "text": "{\n  \"mild\": \"lungs work normally, minimal oxygen impact\",\n  \"moderate\": \"lungs function properly but infection is deep in lungs\",\n  \"severe\": \"lungs cannot work correctly, need oxygen and hospital care\",\n  \"critical\": \"respiratory failure and multi-organ damage\"\n}",
+    "metadata": {
+      "condition": "COVID-19",
+      "section": "severity_levels",
+      "urgency": "low"
+    }
+  },
+  {
+    "text": "{\n  \"call_911\": {\n    \"adults\": [\n      \"trouble breathing\",\n      \"pale, gray, or blue skin/lips/nail beds\",\n      \"new confusion\",\n      \"trouble staying awake\",\n      \"constant chest pain or pressure\"\n    ],\n    \"children\": [\n      \"dizziness\",\n      \"dry mouth, fewer tears, reduced urination\",\n      \"vomiting or diarrhea >24 hours\",\n      \"fever that doesn't go away\",\n      \"trouble staying awake\",\n      \"confusion or agitation\"\n    ]\n  }\n}",
+    "metadata": {
+      "condition": "COVID-19",
+      "section": "red_flags",
+      "urgency": "high"
+    }
+  },
+  {
+    "text": "living with someone who has COVID-19, poorly ventilated crowded spaces, close contact >30 minutes with infected person, age 65+ or babies <6 months, weakened immune system, pregnancy, heart disease, hypertension, heart failure, stroke, diabetes, chronic kidney, liver, lung disease, mental health conditions, sickle cell disease, smoking, obesity",
+    "metadata": {
+      "condition": "COVID-19",
+      "section": "risk_factors",
+      "urgency": "low"
+    }
+  },
+  {
+    "text": "vaccination: Moderna, Pfizer-BioNTech, Novavax (approved for 65+ in US)",
+    "metadata": {
+      "condition": "COVID-19",
+      "section": "prevention",
+      "urgency": "low"
+    }
+  },
+  {
+    "text": "https://www.mayoclinic.org/diseases-conditions/coronavirus/symptoms-causes/syc-20479963",
+    "metadata": {
+      "condition": "COVID-19",
+      "section": "references",
+      "urgency": "low"
+    }
+  },
+  {
+    "text": "Back pain, particularly lower back pain, is very common. It usually improves within a few weeks but can sometimes last longer or recur.",
+    "metadata": {
+      "condition": "Back Pain",
+      "section": "overview",
+      "urgency": "low"
+    }
+  },
+  {
+    "text": "muscle ache to shooting, burning, or stabbing pain, pain radiating down a leg, pain worsens with bending, twisting, lifting, standing, or walking",
+    "metadata": {
+      "condition": "Back Pain",
+      "section": "symptoms",
+      "urgency": "medium"
+    }
+  },
+  {
+    "text": "{\n  \"do\": [\n    \"stay active and continue daily activities\",\n    \"take anti-inflammatory medicines like ibuprofen\",\n    \"use ice pack to reduce pain and swelling\",\n    \"use heat pack to relieve stiffness or muscle spasms\",\n    \"do exercises and stretches for back pain\"\n  ],\n  \"dont\": [\n    \"stay in bed for long periods\"\n  ]\n}",
+    "metadata": {
+      "condition": "Back Pain",
+      "section": "self_care",
+      "urgency": "low"
+    }
+  },
+  {
+    "text": "{\n  \"see_gp\": [\n    \"pain does not improve after a few weeks\",\n    \"pain prevents day-to-day activities\",\n    \"pain is severe or worsening\",\n    \"concern about coping with pain\"\n  ],\n  \"urgent_gp\": [\n    \"high temperature\",\n    \"unexplained weight loss\",\n    \"lump or swelling or change in shape\",\n    \"pain worse at night or after resting\",\n    \"pain worsened by sneezing, coughing, or bowel movements\",\n    \"pain in upper back rather than lower back\"\n  ],\n  \"call_911\": [\n    \"pain, tingling, weakness, or numbness in both legs\",\n    \"numbness around genitals or buttocks\",\n    \"difficulty urinating or loss of bladder/bowel control\",\n    \"chest pain\",\n    \"pain after a serious accident\"\n  ]\n}",
+    "metadata": {
+      "condition": "Back Pain",
+      "section": "red_flags",
+      "urgency": "high"
+    }
+  },
+  {
+    "text": "muscle or ligament strain, bulging or ruptured disks, arthritis, osteoporosis, ankylosing spondylitis",
+    "metadata": {
+      "condition": "Back Pain",
+      "section": "causes",
+      "urgency": "low"
+    }
+  },
+  {
+    "text": "age (more common after 30\u201340), lack of exercise, excess weight, diseases like arthritis or cancer, improper lifting, psychological conditions, smoking",
+    "metadata": {
+      "condition": "Back Pain",
+      "section": "risk_factors",
+      "urgency": "low"
+    }
+  },
+  {
+    "text": "exercise regularly to build strength and flexibility, maintain a healthy weight, quit smoking, avoid movements that twist or strain the back, stand, sit, and lift smartly to protect your back",
+    "metadata": {
+      "condition": "Back Pain",
+      "section": "prevention",
+      "urgency": "low"
+    }
+  },
+  {
+    "text": "https://www.nhs.uk/conditions/back-pain/, https://www.mayoclinic.org/diseases-conditions/back-pain/symptoms-causes/syc-20369906",
+    "metadata": {
+      "condition": "Back Pain",
+      "section": "references",
+      "urgency": "low"
+    }
+  },
+  {
+    "text": "Eye redness, swelling, tears, discharge, and itching or discomfort are some of the common signs and symptoms of pink eye.",
+    "metadata": {
+      "condition": "Conjunctivitis",
+      "section": "overview",
+      "urgency": "low"
+    }
+  },
+  {
+    "text": "burn or feel gritty, pink or red color in the white of the eye, swelling of the eyelids or thin layer lining the eye, crusting of eyelids or lashes, especially in the morning, watery, teary eyes, eye discharge that may be clear, yellow, white, or green, itching, irritation, burning, sensation of something in the eye, contact lenses feel uncomfortable",
+    "metadata": {
+      "condition": "Conjunctivitis",
+      "section": "symptoms",
+      "urgency": "medium"
+    }
+  },
+  {
+    "text": "Most common causes: viruses, bacteria, allergens. Less common: chemicals, contact lens wear, foreign bodies, pollution, fungi, ameba, parasites.",
+    "metadata": {
+      "condition": "Conjunctivitis",
+      "section": "cause",
+      "urgency": "low"
+    }
+  },
+  {
+    "text": "{\n  \"see_gp\": [\n    \"baby has red, sticky eyes (urgent if under 30 days)\",\n    \"you wear contact lenses and have conjunctivitis symptoms with spots on eyelids\",\n    \"symptoms do not clear within 7 days\"\n  ],\n  \"urgent_gp\": [\n    \"pain in your eyes\",\n    \"sensitivity to light\",\n    \"changes in vision\",\n    \"very red eyes\",\n    \"baby under 30 days old with red, sticky eyes\",\n    \"blurred vision not improving after wiping discharge\",\n    \"symptoms that get worse or do not improve\",\n    \"bacterial conjunctivitis not improving after 24 hours of antibiotics\",\n    \"weakened immune system\"\n  ],\n  \"call_911\": []\n}",
+    "metadata": {
+      "condition": "Conjunctivitis",
+      "section": "red_flags",
+      "urgency": "high"
+    }
+  },
+  {
+    "text": "",
+    "metadata": {
+      "condition": "Conjunctivitis",
+      "section": "complications",
+      "urgency": "low"
+    }
+  },
+  {
+    "text": "",
+    "metadata": {
+      "condition": "Conjunctivitis",
+      "section": "people_at_risk",
+      "urgency": "low"
+    }
+  },
+  {
+    "text": "You can get pink eye from touching infected hands, droplets from coughs/sneezes, contaminated objects or surfaces.",
+    "metadata": {
+      "condition": "Conjunctivitis",
+      "section": "spread",
+      "urgency": "low"
+    }
+  },
+  {
+    "text": "wash eyelids with clean cooled boiled water, wipe eyelashes with a clean cotton pad, hold a cold flannel on the eyes, do not wear contact lenses",
+    "metadata": {
+      "condition": "Conjunctivitis",
+      "section": "home_treatment",
+      "urgency": "low"
+    }
+  },
+  {
+    "text": "wash hands regularly, wash pillowcases and face cloths, cover mouth when sneezing, do not share towels or pillows, do not rub eyes",
+    "metadata": {
+      "condition": "Conjunctivitis",
+      "section": "prevention",
+      "urgency": "low"
+    }
+  },
+  {
+    "text": "https://www.nhs.uk/conditions/conjunctivitis/, https://www.cdc.gov/conjunctivitis/signs-symptoms/index.html",
+    "metadata": {
+      "condition": "Conjunctivitis",
+      "section": "references",
+      "urgency": "low"
+    }
+  },
+  {
+    "text": "Dehydration means your body loses more fluids than you take in. It can become serious if untreated. Babies, children, and older adults are at higher risk.",
+    "metadata": {
+      "condition": "Dehydration",
+      "section": "overview",
+      "urgency": "low"
+    }
+  },
+  {
+    "text": "{\n  \"infants_children\": [\n    \"urinating less or no wet diapers for 3 hours\",\n    \"dry mouth\",\n    \"no tears when crying\",\n    \"rapid heart rate\",\n    \"sunken eyes, cheeks or soft spot\",\n    \"lacking energy or crankiness\",\n    \"skin that doesn't flatten after being pinched\"\n  ],\n  \"adults\": [\n    \"extreme thirst\",\n    \"urinating less\",\n    \"dark-colored urine\",\n    \"tiredness\",\n    \"dizziness\",\n    \"confusion\",\n    \"skin that doesn't flatten after pinch\",\n    \"sunken eyes or cheeks\"\n  ]\n}",
+    "metadata": {
+      "condition": "Dehydration",
+      "section": "symptoms",
+      "urgency": "medium"
+    }
+  },
+  {
+    "text": "diabetes, sickness or diarrhea, heatstroke, alcohol consumption, excessive sweating, high temperature, medicines like diuretics",
+    "metadata": {
+      "condition": "Dehydration",
+      "section": "causes",
+      "urgency": "low"
+    }
+  },
+  {
+    "text": "drink fluids regularly, start with small sips if feeling sick, gradually increase fluid intake",
+    "metadata": {
+      "condition": "Dehydration",
+      "section": "treatment",
+      "urgency": "low"
+    }
+  },
+  {
+    "text": "{\n  \"urgent_gp\": [\n    \"unusual tiredness or drowsiness\",\n    \"confusion or disorientation\",\n    \"persistent dizziness\",\n    \"dark yellow urine or urinating less\",\n    \"fast breathing or heart rate\",\n    \"few or no tears in infants\",\n    \"sunken fontanelle in babies\"\n  ]\n}",
+    "metadata": {
+      "condition": "Dehydration",
+      "section": "red_flags",
+      "urgency": "high"
+    }
+  },
+  {
+    "text": "drink fluids regularly to keep urine pale and clear, increase intake during hot weather, illness, or exercise, children under 5 should get plenty of fluids",
+    "metadata": {
+      "condition": "Dehydration",
+      "section": "prevention",
+      "urgency": "low"
+    }
+  },
+  {
+    "text": "heat injury, urinary and kidney problems, seizures, low blood volume shock (hypovolemic shock)",
+    "metadata": {
+      "condition": "Dehydration",
+      "section": "complications",
+      "urgency": "low"
+    }
+  },
+  {
+    "text": "https://www.nhs.uk/conditions/dehydration/, https://www.mayoclinic.org/diseases-conditions/dehydration/symptoms-causes/syc-20354086",
+    "metadata": {
+      "condition": "Dehydration",
+      "section": "references",
+      "urgency": "low"
+    }
+  },
+  {
+    "text": "Iron deficiency anemia is caused by lack of iron, often due to blood loss or pregnancy. It is treated with iron tablets and iron-rich foods.",
+    "metadata": {
+      "condition": "Iron Deficiency Anemia",
+      "section": "overview",
+      "urgency": "low"
+    }
+  },
+  {
+    "text": "extreme tiredness, weakness, paler than usual skin, chest pain, fast heartbeat, or shortness of breath, headache or dizziness, cold hands and feet, tongue irritation or soreness, brittle nails, restless legs syndrome, pica (craving non-food items such as ice, dirt, or clay), loss of appetite (especially in infants and children), odd smell cravings (rubber, detergents, cleaning agents)",
+    "metadata": {
+      "condition": "Iron Deficiency Anemia",
+      "section": "symptoms",
+      "urgency": "medium"
+    }
+  },
+  {
+    "text": "blood loss, pregnancy, not enough iron in diet, difficulty absorbing iron",
+    "metadata": {
+      "condition": "Iron Deficiency Anemia",
+      "section": "causes",
+      "urgency": "low"
+    }
+  },
+  {
+    "text": "{\n  \"eat_more\": [\n    \"dark-green leafy vegetables (watercress, curly kale)\",\n    \"fortified cereals and bread\",\n    \"meat\",\n    \"dried fruit (apricots, prunes, raisins)\",\n    \"pulses (beans, peas, lentils)\"\n  ],\n  \"eat_less\": [\n    \"tea\",\n    \"coffee\",\n    \"milk and dairy\",\n    \"foods high in phytic acid (wholegrain cereals)\"\n  ]\n}",
+    "metadata": {
+      "condition": "Iron Deficiency Anemia",
+      "section": "dietary_recommendations",
+      "urgency": "low"
+    }
+  },
+  {
+    "text": "people with heavy periods, children and infants, vegetarians and vegans, people who had gastric bypass or stomach surgeries, people with digestive conditions, frequent blood donors",
+    "metadata": {
+      "condition": "Iron Deficiency Anemia",
+      "section": "risk_factors",
+      "urgency": "low"
+    }
+  },
+  {
+    "text": "{\n  \"see_gp\": [\n    \"suspected iron deficiency anemia, see GP for diagnosis and treatment plan\"\n  ]\n}",
+    "metadata": {
+      "condition": "Iron Deficiency Anemia",
+      "section": "red_flags",
+      "urgency": "high"
+    }
+  },
+  {
+    "text": "https://www.nhs.uk/conditions/iron-deficiency-anaemia/, https://www.mayoclinic.org/diseases-conditions/iron-deficiency-anemia/symptoms-causes/syc-20355034",
+    "metadata": {
+      "condition": "Iron Deficiency Anemia",
+      "section": "references",
+      "urgency": "low"
+    }
+  },
+  {
+    "text": "A sore throat is pain or irritation of the throat. Swallowing often makes it feel worse. The most common cause of a sore throat, also called pharyngitis, is a viral infection, such as a cold or the flu. A sore throat from a virus goes away on its own.",
+    "metadata": {
+      "condition": "Sore Throat",
+      "section": "overview",
+      "urgency": "low"
+    }
+  },
+  {
+    "text": "Painful to swallow, Dry and scratchy throat, Redness in the back of your mouth, Bad breath, A mild cough, Swollen neck glands, Children may experience high temperature and become less active",
+    "metadata": {
+      "condition": "Sore Throat",
+      "section": "symptoms",
+      "urgency": "medium"
+    }
+  },
+  {
+    "text": "Cough, Runny nose, Hoarseness, Conjunctivitis",
+    "metadata": {
+      "condition": "Sore Throat",
+      "section": "viral_vs_strep_clues",
+      "urgency": "low"
+    }
+  },
+  {
+    "text": "Viruses (most common cause), Group A Streptococcus bacteria (strep throat), Allergies, Smoking or exposure to secondhand smoke",
+    "metadata": {
+      "condition": "Sore Throat",
+      "section": "causes",
+      "urgency": "low"
+    }
+  },
+  {
+    "text": "Clean your hands, Avoid close contact with people who have respiratory infections, Don't smoke and avoid secondhand smoke",
+    "metadata": {
+      "condition": "Sore Throat",
+      "section": "prevention",
+      "urgency": "low"
+    }
+  },
+  {
+    "text": "{\n  \"see_gp\": [\n    \"Child under 5 needs help for a sore throat\",\n    \"Sore throat does not improve after a week\",\n    \"You often get sore throats\",\n    \"Sore throat with lump in mouth/neck or mouth ulcer > 3 weeks\"\n  ],\n  \"urgent_gp\": [\n    \"Very high temperature or feeling shivery\",\n    \"Signs of dehydration\",\n    \"Joint swelling and pain\",\n    \"Rash\",\n    \"Weakened immune system\"\n  ],\n  \"call_911\": [\n    \"Difficulty breathing or unable to swallow\",\n    \"Blood in saliva or phlegm\",\n    \"Drooling\",\n    \"Stridor\",\n    \"Severe symptoms getting worse quickly\",\n    \"Fever \\u2265 38\\u00b0C (100.4\\u00b0F) in a child under 3 months\"\n  ]\n}",
+    "metadata": {
+      "condition": "Sore Throat",
+      "section": "red_flags",
+      "urgency": "high"
+    }
+  },
+  {
+    "text": "Gargle warm salty water (not for children), Drink plenty of water, Eat cool or soft foods, Avoid smoke, Suck ice cubes or ice lollies (not for young children due to choking risk), Rest",
+    "metadata": {
+      "condition": "Sore Throat",
+      "section": "treatment",
+      "urgency": "low"
+    }
+  },
+  {
+    "text": "Tobacco smoke exposure, Allergies, Chemical exposure, Frequent sinus infections, Being near other people in grouped settings, Weak immune system",
+    "metadata": {
+      "condition": "Sore Throat",
+      "section": "risk_factors",
+      "urgency": "low"
+    }
+  },
+  {
+    "text": "https://www.cdc.gov/sore-throat/about/, https://www.nhs.uk/symptoms/sore-throat/, https://www.mayoclinic.org/diseases-conditions/sore-throat/symptoms-causes/syc-20351635",
+    "metadata": {
+      "condition": "Sore Throat",
+      "section": "sources",
+      "urgency": "low"
+    }
+  },
+  {
+    "text": "A panic attack is a sudden episode of intense fear that triggers severe physical reactions even when there is no real danger. It can be very frightening and may mimic a heart attack.",
+    "metadata": {
+      "condition": "Panic Attack",
+      "section": "overview",
+      "urgency": "low"
+    }
+  },
+  {
+    "text": "sense of impending doom or danger, fear of loss of control or death, rapid, pounding heart rate, sweating, trembling or shaking, shortness of breath or tightness in throat, chills or hot flashes, nausea or abdominal cramping, chest pain, headache, dizziness, lightheadedness or faintness, numbness or tingling, feeling of unreality or detachment",
+    "metadata": {
+      "condition": "Panic Attack",
+      "section": "symptoms",
+      "urgency": "medium"
+    }
+  },
+  {
+    "text": "genetics, major stress, sensitive temperament prone to negative emotions, changes in brain function",
+    "metadata": {
+      "condition": "Panic Attack",
+      "section": "causes",
+      "urgency": "low"
+    }
+  },
+  {
+    "text": "late teens or early adulthood onset, more common in women, family history of panic attacks or disorder, major life stress (death or serious illness of loved one), traumatic events (sexual assault, serious accident), major life changes (divorce, birth of a child), smoking or excessive caffeine, history of childhood physical or sexual abuse",
+    "metadata": {
+      "condition": "Panic Attack",
+      "section": "risk_factors",
+      "urgency": "low"
+    }
+  },
+  {
+    "text": "development of specific phobias, frequent medical visits for health concerns, avoidance of social situations, problems at work or school, depression, anxiety, and other psychiatric disorders, increased risk of suicide, alcohol or substance misuse, financial problems",
+    "metadata": {
+      "condition": "Panic Attack",
+      "section": "complications",
+      "urgency": "low"
+    }
+  },
+  {
+    "text": "early treatment of panic attacks, adhere to treatment plan to prevent relapses, regular physical activity may help protect against anxiety",
+    "metadata": {
+      "condition": "Panic Attack",
+      "section": "prevention",
+      "urgency": "low"
+    }
+  },
+  {
+    "text": "{\n  \"see_gp\": [\n    \"if experiencing panic attack symptoms\",\n    \"important to rule out other serious conditions like heart attack\"\n  ]\n}",
+    "metadata": {
+      "condition": "Panic Attack",
+      "section": "red_flags",
+      "urgency": "high"
+    }
+  },
+  {
+    "text": "https://www.mayoclinic.org/diseases-conditions/panic-attacks/symptoms-causes/syc-20376021",
+    "metadata": {
+      "condition": "Panic Attack",
+      "section": "references",
+      "urgency": "low"
+    }
+  },
+  {
+    "text": "Anaphylaxis is a life-threatening allergic reaction that happens quickly, often due to food, medicine, or insect stings. Immediate medical attention is required.",
+    "metadata": {
+      "condition": "Anaphylaxis (Severe Allergic Reaction)",
+      "section": "overview",
+      "urgency": "low"
+    }
+  },
+  {
+    "text": "swelling of throat and tongue, difficulty breathing or very fast breathing, difficulty swallowing, tight throat or hoarse voice, wheezing, coughing, noisy breathing, fatigue or confusion, feeling faint, dizzy or fainting, cold skin, blue, grey or pale skin, lips or tongue, swollen, raised or itchy rash",
+    "metadata": {
+      "condition": "Anaphylaxis (Severe Allergic Reaction)",
+      "section": "symptoms",
+      "urgency": "medium"
+    }
+  },
+  {
+    "text": "{\n  \"call_911\": [\n    \"sudden swelling of lips, mouth, throat, or tongue\",\n    \"severe breathing difficulty\",\n    \"throat tightness or struggle swallowing\",\n    \"skin, lips or tongue turning blue, grey or pale\",\n    \"confusion, drowsiness, dizziness\",\n    \"unresponsiveness in children\"\n  ]\n}",
+    "metadata": {
+      "condition": "Anaphylaxis (Severe Allergic Reaction)",
+      "section": "red_flags",
+      "urgency": "high"
+    }
+  },
+  {
+    "text": "use adrenaline auto-injector if available, call 911 immediately, lie down, raise legs; if struggling to breathe, raise shoulders or sit slowly, remove insect sting if applicable, use second injector after 5 minutes if symptoms persist, do not stand or walk even if feeling better",
+    "metadata": {
+      "condition": "Anaphylaxis (Severe Allergic Reaction)",
+      "section": "first_aid",
+      "urgency": "low"
+    }
+  },
+  {
+    "text": "avoid known allergens, carry 2 adrenaline auto-injectors and check expiry dates, practice injector use with trainer, teach others how to use injector, wear medical alert jewellery, alert healthcare providers to allergies",
+    "metadata": {
+      "condition": "Anaphylaxis (Severe Allergic Reaction)",
+      "section": "prevention",
+      "urgency": "low"
+    }
+  },
+  {
+    "text": "previous anaphylaxis, allergies or asthma, heart disease or mastocytosis",
+    "metadata": {
+      "condition": "Anaphylaxis (Severe Allergic Reaction)",
+      "section": "risk_factors",
+      "urgency": "low"
+    }
+  },
+  {
+    "text": "foods (nuts, milk, eggs, fish, sesame seeds), medicines (antibiotics, NSAIDs), insect stings (wasp, bee), anaesthetics, latex, sometimes unknown",
+    "metadata": {
+      "condition": "Anaphylaxis (Severe Allergic Reaction)",
+      "section": "common_causes",
+      "urgency": "low"
+    }
+  },
+  {
+    "text": "https://www.nhs.uk/conditions/anaphylaxis/, https://www.mayoclinic.org/diseases-conditions/anaphylaxis/symptoms-causes/syc-20351468",
+    "metadata": {
+      "condition": "Anaphylaxis (Severe Allergic Reaction)",
+      "section": "references",
+      "urgency": "low"
+    }
+  },
+  {
+    "text": "A migraine tends to be a very bad headache with a throbbing pain on one side of the head.",
+    "metadata": {
+      "condition": "Migraine",
+      "section": "overview",
+      "urgency": "low"
+    }
+  },
+  {
+    "text": "{\n  \"prodrome\": [\n    \"Feeling very tired and yawning a lot\",\n    \"Craving certain foods or feeling thirsty\",\n    \"Changes in mood\",\n    \"A stiff neck\",\n    \"Peeing more\"\n  ],\n  \"aura\": [\n    \"Problems with sight such as zigzag lines or flashing lights\",\n    \"Numbness or tingling\",\n    \"Feeling dizzy\",\n    \"Difficulty speaking\",\n    \"Vision loss\",\n    \"Pins and needles in an arm or leg\",\n    \"Weakness or numbness in face or one side of the body\"\n  ],\n  \"headache_phase\": [\n    \"Pain on one or both sides of the head\",\n    \"Throbbing or pulsating pain\",\n    \"Sensitivity to light, sound, smells, touch\",\n    \"Nausea\",\n    \"Vomiting\"\n  ],\n  \"aura_duration\": \"Aura symptoms should not last for longer than an hour.\"\n}",
+    "metadata": {
+      "condition": "Migraine",
+      "section": "symptoms",
+      "urgency": "medium"
+    }
+  },
+  {
+    "text": "Migraine with aura, Migraine without aura, Silent migraine (aura without headache)",
+    "metadata": {
+      "condition": "Migraine",
+      "section": "types",
+      "urgency": "low"
+    }
+  },
+  {
+    "text": "{\n  \"see_gp\": [\n    \"Migraines are severe, worsening, or lasting longer than usual\",\n    \"Migraines occur more than once a week\",\n    \"Difficulty controlling migraines\",\n    \"Migraines before or during period\"\n  ],\n  \"urgent_gp\": [\n    \"Migraine lasting more than 72 hours\",\n    \"Aura longer than 1 hour\",\n    \"Pregnant or just had a baby\"\n  ],\n  \"call_911\": [\n    \"Sudden, extremely painful headache\",\n    \"Problems speaking or remembering things\",\n    \"Loss of vision or double vision\",\n    \"Drowsiness or confusion\",\n    \"Seizure\",\n    \"High temperature with meningitis symptoms\",\n    \"Weakness on one side of the body or face\",\n    \"Thunderclap headache\",\n    \"Headache with fever, stiff neck, seizures, double vision, numbness or weakness\",\n    \"Headache after head injury\",\n    \"Chronic headache worsened by coughing, exertion, or sudden movement\",\n    \"New headache after age 50\"\n  ]\n}",
+    "metadata": {
+      "condition": "Migraine",
+      "section": "red_flags",
+      "urgency": "high"
+    }
+  },
+  {
+    "text": "Cause is unknown. More likely if you have a family member with migraines. Triggers include period, anxiety, depression, stress, tiredness, skipping meals, caffeine, lack of exercise.",
+    "metadata": {
+      "condition": "Migraine",
+      "section": "causes",
+      "urgency": "low"
+    }
+  },
+  {
+    "text": "Sleep or lie down in a dark room, Avoid triggers, Stay hydrated, Limit caffeine and alcohol, Keep healthy weight, Eat regular meals, Exercise regularly, Get plenty of sleep, Manage stress",
+    "metadata": {
+      "condition": "Migraine",
+      "section": "treatment",
+      "urgency": "low"
+    }
+  },
+  {
+    "text": "Migraines usually last 2 hours to 3 days. Some symptoms start 2 days before the headache and last after the headache stops. Menstrual migraines are common.",
+    "metadata": {
+      "condition": "Migraine",
+      "section": "duration",
+      "urgency": "low"
+    }
+  },
+  {
+    "text": "Family history, Teenage onset, peak in 30s, Women are three times more likely than men, Hormonal changes",
+    "metadata": {
+      "condition": "Migraine",
+      "section": "risk_factors",
+      "urgency": "low"
+    }
+  },
+  {
+    "text": "https://www.nhs.uk/conditions/migraine/, https://www.mayoclinic.org/diseases-conditions/migraine-headache/symptoms-causes/syc-20360201",
+    "metadata": {
+      "condition": "Migraine",
+      "section": "sources",
+      "urgency": "low"
+    }
+  },
+  {
+    "text": "Type 2 diabetes is a condition where blood sugar levels are too high. Symptoms develop gradually and may be similar to type 1 diabetes but are usually slower to appear.",
+    "metadata": {
+      "condition": "Type 2 Diabetes",
+      "section": "overview",
+      "urgency": "low"
+    }
+  },
+  {
+    "text": "feeling very tired, peeing more than usual, feeling thirsty all the time, unexplained weight loss, blurred vision, cuts or wounds taking longer to heal, itching around genitals or recurrent thrush",
+    "metadata": {
+      "condition": "Type 2 Diabetes",
+      "section": "symptoms",
+      "urgency": "medium"
+    }
+  },
+  {
+    "text": "age: over 40 for white people, over 25 for South Asian, Chinese, Black African, or Black Caribbean ethnic background, family history (parent or sibling with diabetes), overweight and physically inactive, high blood pressure",
+    "metadata": {
+      "condition": "Type 2 Diabetes",
+      "section": "risk_factors",
+      "urgency": "low"
+    }
+  },
+  {
+    "text": "eat healthy foods with more fiber, fruits, vegetables, and whole grains, increase physical activity, lose excess weight (even 7% reduction lowers risk)",
+    "metadata": {
+      "condition": "Type 2 Diabetes",
+      "section": "prevention",
+      "urgency": "low"
+    }
+  },
+  {
+    "text": "damage to blood vessels (coronary heart disease, stroke), foot problems (ulcers, infections, possible amputation), sight problems (diabetic retinopathy, blindness), kidney problems, gum disease",
+    "metadata": {
+      "condition": "Type 2 Diabetes",
+      "section": "long_term_complications",
+      "urgency": "low"
+    }
+  },
+  {
+    "text": "{\n  \"see_gp\": [\n    \"suspect you or your child may have diabetes\",\n    \"higher risk of developing type 2 diabetes\",\n    \"blisters or cracked skin on feet\",\n    \"pain, tingling, numbness, sexual problems, constipation or diarrhea\",\n    \"worsening vision\"\n  ],\n  \"call_911\": [\n    \"peeing a lot\",\n    \"feeling very thirsty\",\n    \"feeling nauseous or sick\",\n    \"confusion or extreme sleepiness\",\n    \"drowsiness\",\n    \"shortness of breath\"\n  ]\n}",
+    "metadata": {
+      "condition": "Type 2 Diabetes",
+      "section": "red_flags",
+      "urgency": "high"
+    }
+  },
+  {
+    "text": "https://www.nhs.uk/conditions/type-2-diabetes/symptoms/, https://www.mayoclinic.org/diseases-conditions/diabetes/symptoms-causes/syc-20371444",
+    "metadata": {
+      "condition": "Type 2 Diabetes",
+      "section": "references",
+      "urgency": "low"
+    }
+  },
+  {
+    "text": "A common skin condition causing itchy skin. Most common in young children. Cannot be cured but treatment can manage symptoms.",
+    "metadata": {
+      "condition": "Atopic Eczema (Atopic Dermatitis)",
+      "section": "overview",
+      "urgency": "low"
+    }
+  },
+  {
+    "text": "itchy skin, dry, cracked, crusty, scaly or thickened skin, skin color changes (red, white, purple, grey, lighter or darker), blistering or bleeding, flare-ups and periods of improvement",
+    "metadata": {
+      "condition": "Atopic Eczema (Atopic Dermatitis)",
+      "section": "symptoms",
+      "urgency": "medium"
+    }
+  },
+  {
+    "text": "elbows, knees, hands, face (babies and toddlers)",
+    "metadata": {
+      "condition": "Atopic Eczema (Atopic Dermatitis)",
+      "section": "common_locations",
+      "urgency": "low"
+    }
+  },
+  {
+    "text": "unknown exact cause, parent with atopic eczema, family history of asthma or hay fever",
+    "metadata": {
+      "condition": "Atopic Eczema (Atopic Dermatitis)",
+      "section": "causes",
+      "urgency": "low"
+    }
+  },
+  {
+    "text": "allergens or irritants (soap, detergents, fabrics, pets, pollen, mites), heat or temperature changes, skin infections, stress, hormonal changes",
+    "metadata": {
+      "condition": "Atopic Eczema (Atopic Dermatitis)",
+      "section": "worsened_by",
+      "urgency": "low"
+    }
+  },
+  {
+    "text": "avoid triggers such as soaps, detergents, certain fabrics, pets, apply moisturisers frequently (at least twice daily), wash with emollient instead of soap, keep cool, keep nails short, use anti-scratch mittens for babies, rub gently instead of scratching, avoid sharing emollients, use spoon or pump dispenser for emollients, do not use aqueous cream, do not change diet unless advised, avoid smoking or open flames near emollients",
+    "metadata": {
+      "condition": "Atopic Eczema (Atopic Dermatitis)",
+      "section": "home_treatment",
+      "urgency": "low"
+    }
+  },
+  {
+    "text": "{\n  \"see_gp\": [\n    \"symptoms of atopic eczema\",\n    \"treatments not helping\"\n  ],\n  \"urgent_gp\": [\n    \"eczema blistered, crusty, leaking fluid or pus-filled\",\n    \"painful, swollen or warm skin\",\n    \"sudden worsening\",\n    \"high temperature or feeling unwell\"\n  ]\n}",
+    "metadata": {
+      "condition": "Atopic Eczema (Atopic Dermatitis)",
+      "section": "red_flags",
+      "urgency": "high"
+    }
+  },
+  {
+    "text": "https://www.nhs.uk/conditions/atopic-eczema/",
+    "metadata": {
+      "condition": "Atopic Eczema (Atopic Dermatitis)",
+      "section": "references",
+      "urgency": "low"
+    }
+  },
+  {
+    "text": "A stroke occurs when blood stops flowing to a part of the brain. It can affect speech, movement, and cognition, and is a medical emergency requiring immediate hospital care.",
+    "metadata": {
+      "condition": "Stroke",
+      "section": "overview",
+      "urgency": "low"
+    }
+  },
+  {
+    "text": "face weakness \u2013 one side droops, difficulty smiling, arm weakness \u2013 unable to lift or hold arms due to weakness/numbness, speech problems \u2013 slurred or confused speech, weakness or numbness down one side of the body, blurred or lost vision in one/both eyes, difficulty speaking or finding words, confusion or memory loss, dizziness or falls, severe headache, nausea or vomiting",
+    "metadata": {
+      "condition": "Stroke",
+      "section": "symptoms",
+      "urgency": "medium"
+    }
+  },
+  {
+    "text": "age over 50, Black or South Asian ethnicity, sickle cell disease, unhealthy lifestyle, migraines, combined contraceptive pill, pregnancy with pre-eclampsia, recent childbirth, high blood pressure, diabetes, atrial fibrillation, high cholesterol, transient ischemic attack (TIA/mini stroke), cardiovascular disease, smoking or secondhand smoke, obstructive sleep apnea, family history of stroke or heart attack, COVID-19 infection",
+    "metadata": {
+      "condition": "Stroke",
+      "section": "cause_risk_factors",
+      "urgency": "low"
+    }
+  },
+  {
+    "text": "control high blood pressure, reduce cholesterol and saturated fat intake, quit tobacco, manage diabetes, maintain healthy weight, eat fruits and vegetables, exercise regularly, drink alcohol in moderation, treat obstructive sleep apnea, avoid illicit drugs",
+    "metadata": {
+      "condition": "Stroke",
+      "section": "prevention",
+      "urgency": "low"
+    }
+  },
+  {
+    "text": "{\n  \"call_911\": [\n    \"Face drooping\",\n    \"Arm weakness\",\n    \"Speech difficulties\",\n    \"Time to call emergency services immediately\"\n  ]\n}",
+    "metadata": {
+      "condition": "Stroke",
+      "section": "red_flags",
+      "urgency": "high"
+    }
+  },
+  {
+    "text": "paralysis, trouble talking or swallowing, memory or cognitive issues, emotional changes, pain, behavior and self-care changes",
+    "metadata": {
+      "condition": "Stroke",
+      "section": "complications",
+      "urgency": "low"
+    }
+  },
+  {
+    "text": "https://www.nhs.uk/conditions/stroke/, https://www.mayoclinic.org/diseases-conditions/stroke/symptoms-causes/syc-20350113",
+    "metadata": {
+      "condition": "Stroke",
+      "section": "references",
+      "urgency": "low"
+    }
+  },
+  {
+    "text": "Hay fever, also called allergic rhinitis, causes cold-like symptoms such as a runny nose, itchy eyes, congestion, sneezing and sinus pressure. It is caused by an allergic response to harmless substances (allergens).",
+    "metadata": {
+      "condition": "Allergic Rhinitis",
+      "section": "overview",
+      "urgency": "low"
+    }
+  },
+  {
+    "text": "sneezing, itchy nose, itchy, red and watery eyes, cough, itchy roof of the mouth, runny nose and nasal congestion, postnasal drip, swollen, bruised-appearing skin under eyes (allergic shiners), extreme tiredness and fatigue",
+    "metadata": {
+      "condition": "Allergic Rhinitis",
+      "section": "symptoms",
+      "urgency": "medium"
+    }
+  },
+  {
+    "text": "pollen from trees, grass, and weeds, house dust mites, animals such as dogs and cats, mould, wood dust, flour dust, and latex, family history of allergies, eczema, or asthma",
+    "metadata": {
+      "condition": "Allergic Rhinitis",
+      "section": "causes",
+      "urgency": "low"
+    }
+  },
+  {
+    "text": "{\n  \"hay_fever\": {\n    \"symptoms\": \"runny nose with thin, watery discharge, no fever\",\n    \"duration\": \"as long as exposed to allergens\",\n    \"onset\": \"immediately after allergen exposure\"\n  },\n  \"common_cold\": {\n    \"symptoms\": \"runny nose with watery or thick yellow discharge, body aches, low-grade fever\",\n    \"duration\": \"3\\u20137 days\",\n    \"onset\": \"1\\u20133 days after virus exposure\"\n  }\n}",
+    "metadata": {
+      "condition": "Allergic Rhinitis",
+      "section": "differences_from_cold",
+      "urgency": "low"
+    }
+  },
+  {
+    "text": "avoid triggers if possible, antihistamines, decongestant nasal sprays or drops (not for children under 6), salt water nasal sprays or solutions, do not use decongestants for more than a week",
+    "metadata": {
+      "condition": "Allergic Rhinitis",
+      "section": "home_treatment",
+      "urgency": "low"
+    }
+  },
+  {
+    "text": "wear wraparound sunglasses during pollen season, use hypoallergenic bedding and wash at 60C+, dust with damp cloth and use HEPA vacuum, wash pets every 2 weeks and groom outside, wash pet bedding regularly, keep home dry and ventilated, do not allow pets in bedrooms, avoid going outside or drying clothes outside during high pollen count",
+    "metadata": {
+      "condition": "Allergic Rhinitis",
+      "section": "prevention",
+      "urgency": "low"
+    }
+  },
+  {
+    "text": "{\n  \"see_gp\": [\n    \"symptoms worsen\",\n    \"asthma symptoms worsen\",\n    \"sleep or daily life affected\",\n    \"uncertain cause of symptoms\",\n    \"pharmacist treatments not working\",\n    \"other conditions affecting hay fever (nasal polyps, asthma, frequent sinus infections)\"\n  ]\n}",
+    "metadata": {
+      "condition": "Allergic Rhinitis",
+      "section": "red_flags",
+      "urgency": "high"
+    }
+  },
+  {
+    "text": "https://www.mayoclinic.org/diseases-conditions/hay-fever/symptoms-causes/syc-20373039, https://www.cdc.gov/climate-health/php/effects/allergens-and-pollen.html",
+    "metadata": {
+      "condition": "Allergic Rhinitis",
+      "section": "references",
+      "urgency": "low"
+    }
+  },
+  {
+    "text": "Depression is a mood disorder that causes a persistent feeling of sadness and loss of interest.",
+    "metadata": {
+      "condition": "Depression (Major Depressive Disorder)",
+      "section": "overview",
+      "urgency": "low"
+    }
+  },
+  {
+    "text": "feelings of sadness, tearfulness, emptiness or hopelessness, angry outbursts, irritability or frustration, loss of interest or pleasure in normal activities, sleep disturbances (insomnia or sleeping too much), tiredness and lack of energy, reduced appetite and weight loss or increased cravings and weight gain, anxiety, agitation or restlessness, slowed thinking, speaking or body movements, feelings of worthlessness or guilt, trouble thinking, concentrating, making decisions or remembering things, frequent thoughts of death, suicidal thoughts or attempts, unexplained physical problems (back pain, headaches)",
+    "metadata": {
+      "condition": "Depression (Major Depressive Disorder)",
+      "section": "symptoms",
+      "urgency": "medium"
+    }
+  },
+  {
+    "text": "{\n  \"children\": [\n    \"sadness, irritability, clinginess, worry\",\n    \"aches and pains\",\n    \"refusal to go to school\",\n    \"being underweight\"\n  ],\n  \"teens\": [\n    \"sadness, irritability, feeling negative and worthless\",\n    \"anger, poor school performance or attendance\",\n    \"self-harm, drug or alcohol use\",\n    \"loss of interest in normal activities\",\n    \"social avoidance\"\n  ],\n  \"older_adults\": [\n    \"memory difficulties or personality changes\",\n    \"physical aches or pain\",\n    \"fatigue, loss of appetite, sleep problems\",\n    \"loss of interest in sex\",\n    \"tendency to stay home\",\n    \"suicidal thinking\"\n  ]\n}",
+    "metadata": {
+      "condition": "Depression (Major Depressive Disorder)",
+      "section": "symptoms_by_age",
+      "urgency": "low"
+    }
+  },
+  {
+    "text": "{\n  \"seek_help\": [\n    \"feeling depressed\",\n    \"reluctance to seek treatment \\u2013 talk to trusted person, professional or faith leader\"\n  ],\n  \"call_911\": [\n    \"thinking of hurting yourself or attempting suicide\",\n    \"call 911 or local emergency number immediately\",\n    \"contact suicide hotline or 988 in Canada\"\n  ]\n}",
+    "metadata": {
+      "condition": "Depression (Major Depressive Disorder)",
+      "section": "red_flags",
+      "urgency": "high"
+    }
+  },
+  {
+    "text": "age: teens, 20s or 30s (can occur at any age), more common in women, personality traits: low self-esteem, dependent, self-critical, pessimistic, traumatic or stressful events, family history of depression, bipolar disorder, alcoholism, suicide, LGBTQ+ in unsupportive environment, history of other mental health disorders, alcohol or drug abuse, serious or chronic illness, certain medications (high blood pressure meds, sleeping pills)",
+    "metadata": {
+      "condition": "Depression (Major Depressive Disorder)",
+      "section": "risk_factors",
+      "urgency": "low"
+    }
+  },
+  {
+    "text": "excess weight or obesity leading to heart disease or diabetes, pain or physical illness, alcohol or drug misuse, anxiety, panic disorder or social phobia, family, relationship or work/school difficulties, social isolation, suicidal feelings or attempts, self-mutilation, premature death from medical conditions",
+    "metadata": {
+      "condition": "Depression (Major Depressive Disorder)",
+      "section": "complications",
+      "urgency": "low"
+    }
+  },
+  {
+    "text": "control stress and build resilience, reach out to family and friends, seek treatment early, consider long-term maintenance treatment to prevent relapse",
+    "metadata": {
+      "condition": "Depression (Major Depressive Disorder)",
+      "section": "prevention",
+      "urgency": "low"
+    }
+  },
+  {
+    "text": "https://www.mayoclinic.org/diseases-conditions/depression/symptoms-causes/syc-20356007",
+    "metadata": {
+      "condition": "Depression (Major Depressive Disorder)",
+      "section": "references",
+      "urgency": "low"
+    }
+  },
+  {
+    "text": "High blood pressure, or hypertension, can lead to serious problems such as heart attacks or strokes. A reading of 130/80 mm Hg or higher is generally considered high.",
+    "metadata": {
+      "condition": "Hypertension (High Blood Pressure)",
+      "section": "overview",
+      "urgency": "low"
+    }
+  },
+  {
+    "text": "usually none, headaches, blurred vision, chest pain, shortness of breath, nosebleeds",
+    "metadata": {
+      "condition": "Hypertension (High Blood Pressure)",
+      "section": "symptoms",
+      "urgency": "medium"
+    }
+  },
+  {
+    "text": "age (risk increases with age, men more until 64, women more after 65), race (higher in Black people, develops earlier than in white people), family history of hypertension, obesity or overweight, lack of exercise, tobacco use or vaping, high salt intake, low potassium levels, excess alcohol, stress, chronic conditions (kidney disease, diabetes, sleep apnea), pregnancy",
+    "metadata": {
+      "condition": "Hypertension (High Blood Pressure)",
+      "section": "risk_factors",
+      "urgency": "low"
+    }
+  },
+  {
+    "text": "eat a healthy, balanced diet, exercise regularly (at least 150 minutes/week), lose weight if overweight, limit salt intake, limit alcohol intake to 14 units/week, limit caffeine, do not smoke",
+    "metadata": {
+      "condition": "Hypertension (High Blood Pressure)",
+      "section": "self_care_and_prevention",
+      "urgency": "low"
+    }
+  },
+  {
+    "text": "{\n  \"see_gp\": [\n    \"think you may have high blood pressure or are at risk\",\n    \"age 40 or over and haven't had BP checked in more than 5 years\",\n    \"often have headaches or blurred vision\",\n    \"chest pain that comes and goes\",\n    \"other worrying symptoms\"\n  ],\n  \"call_911\": [\n    \"sudden, persistent chest pain or discomfort\",\n    \"pain spreading to arm, neck, jaw, stomach, or back\",\n    \"chest pain with sweating, nausea, lightheadedness, or shortness of breath (possible heart attack)\"\n  ]\n}",
+    "metadata": {
+      "condition": "Hypertension (High Blood Pressure)",
+      "section": "red_flags",
+      "urgency": "high"
+    }
+  },
+  {
+    "text": "heart disease, heart attacks, strokes, heart failure, kidney disease, vascular dementia",
+    "metadata": {
+      "condition": "Hypertension (High Blood Pressure)",
+      "section": "complications",
+      "urgency": "low"
+    }
+  },
+  {
+    "text": "https://www.nhs.uk/conditions/high-blood-pressure/, https://www.mayoclinic.org/diseases-conditions/high-blood-pressure/symptoms-causes/syc-20373410",
+    "metadata": {
+      "condition": "Hypertension (High Blood Pressure)",
+      "section": "references",
+      "urgency": "low"
+    }
+  },
+  {
+    "text": "Viral gastroenteritis is an intestinal infection that includes signs and symptoms such as watery diarrhea, stomach cramps, nausea or vomiting, and sometimes fever.",
+    "metadata": {
+      "condition": "Viral gastroenteritis (stomach flu)",
+      "section": "overview",
+      "urgency": "low"
+    }
+  },
+  {
+    "text": "watery, usually nonbloody diarrhea, nausea, vomiting, stomach cramps and pain, occasional muscle aches or headache, low-grade fever",
+    "metadata": {
+      "condition": "Viral gastroenteritis (stomach flu)",
+      "section": "symptoms",
+      "urgency": "medium"
+    }
+  },
+  {
+    "text": "Caused by a virus. Symptoms may appear within 1\u20133 days after infection and usually last 1\u20132 days, sometimes up to 14 days. Spread through contaminated food or water or shared utensils, towels or food.",
+    "metadata": {
+      "condition": "Viral gastroenteritis (stomach flu)",
+      "section": "cause_duration",
+      "urgency": "low"
+    }
+  },
+  {
+    "text": "dehydration, severe dehydration requiring IV fluids, rarely death",
+    "metadata": {
+      "condition": "Viral gastroenteritis (stomach flu)",
+      "section": "complications",
+      "urgency": "low"
+    }
+  },
+  {
+    "text": "get your child vaccinated, wash your hands thoroughly, use separate personal items, prepare food safely, disinfect hard surfaces, avoid touching laundry exposed to virus, check child care center hygiene practices",
+    "metadata": {
+      "condition": "Viral gastroenteritis (stomach flu)",
+      "section": "prevention",
+      "urgency": "low"
+    }
+  },
+  {
+    "text": "",
+    "metadata": {
+      "condition": "Viral gastroenteritis (stomach flu)",
+      "section": "risk_factors",
+      "urgency": "low"
+    }
+  },
+  {
+    "text": "stay at home and rest, drink plenty of fluids, give babies small frequent feeds, give sips of water between feeds, eat when able, avoid fatty/spicy foods, take paracetamol if needed, do not drink fruit juice or fizzy drinks, do not weaken baby formula, do not give antidiarrheal medicine to children under 12, do not give aspirin to children under 16",
+    "metadata": {
+      "condition": "Viral gastroenteritis (stomach flu)",
+      "section": "home_treatment",
+      "urgency": "low"
+    }
+  },
+  {
+    "text": "{\n  \"see_gp\": [\n    \"adult unable to keep liquids down for 24 hours\",\n    \"vomiting or diarrhea for more than 2 days\",\n    \"vomiting blood\",\n    \"signs of dehydration\",\n    \"blood in bowel movements\",\n    \"severe stomach pain\",\n    \"fever above 104 F (40 C)\"\n  ],\n  \"see_gp_children\": [\n    \"child has fever of 102 F (38.9 C) or higher\",\n    \"tired or very irritable\",\n    \"significant discomfort or pain\",\n    \"bloody diarrhea\",\n    \"signs of dehydration\"\n  ],\n  \"see_gp_infants\": [\n    \"frequent vomiting\",\n    \"no wet diaper in 6 hours\",\n    \"bloody stools or severe diarrhea\",\n    \"sunken fontanel\",\n    \"dry mouth or crying without tears\",\n    \"excessive sleepiness or unresponsiveness\"\n  ],\n  \"speak_to_pharmacist\": [\n    \"signs of dehydration in child over 5\",\n    \"older adults or weakened immune system\",\n    \"need to temporarily stop diarrhea\"\n  ],\n  \"urgent_gp\": [\n    \"concern about baby under 12 months\",\n    \"child stops breast or bottle feeding\",\n    \"child under 5 has signs of dehydration\",\n    \"still dehydrated after oral rehydration\",\n    \"cannot keep fluid down\",\n    \"bloody diarrhea\",\n    \"diarrhea for more than 7 days\",\n    \"vomiting for more than 2 days\"\n  ],\n  \"call_911\": [\n    \"vomit blood or coffee-ground vomit\",\n    \"green vomit\",\n    \"suspected poisoning\",\n    \"stiff neck and light sensitivity\",\n    \"sudden severe headache\",\n    \"sudden severe abdominal pain\",\n    \"blue/grey/pale skin, lips or tongue\",\n    \"severe difficulty breathing\",\n    \"confusion or unresponsiveness\"\n  ]\n}",
+    "metadata": {
+      "condition": "Viral gastroenteritis (stomach flu)",
+      "section": "red_flags",
+      "urgency": "high"
+    }
+  },
+  {
+    "text": "https://www.mayoclinic.org/diseases-conditions/viral-gastroenteritis/symptoms-causes/syc-20378847, https://www.nhs.uk/symptoms/diarrhoea-and-vomiting/",
+    "metadata": {
+      "condition": "Viral gastroenteritis (stomach flu)",
+      "section": "references",
+      "urgency": "low"
+    }
+  },
+  {
+    "text": "Asthma is a common condition that affects breathing. It cannot be cured, but when well treated, symptoms should not cause problems.",
+    "metadata": {
+      "condition": "Asthma Exacerbation",
+      "section": "overview",
+      "urgency": "low"
+    }
+  },
+  {
+    "text": "wheezing, coughing, shortness of breath, chest tightness, symptoms worse at night or early morning",
+    "metadata": {
+      "condition": "Asthma Exacerbation",
+      "section": "symptoms",
+      "urgency": "medium"
+    }
+  },
+  {
+    "text": "exercise, air pollution, cold air, pollen, dust, mould, animals, allergies",
+    "metadata": {
+      "condition": "Asthma Exacerbation",
+      "section": "triggers",
+      "urgency": "low"
+    }
+  },
+  {
+    "text": "Not fully understood. More likely if you have allergies, family history of asthma/allergies, prematurity, exposure to pollution or smoke as a child, childhood respiratory illnesses, or are overweight. Can also be caused by workplace chemical exposure.",
+    "metadata": {
+      "condition": "Asthma Exacerbation",
+      "section": "cause",
+      "urgency": "low"
+    }
+  },
+  {
+    "text": "",
+    "metadata": {
+      "condition": "Asthma Exacerbation",
+      "section": "risk_factors",
+      "urgency": "low"
+    }
+  },
+  {
+    "text": "{\n  \"see_gp\": [\n    \"asthma symptoms\",\n    \"asthma symptoms not improving\",\n    \"inhalers not helping\",\n    \"symptoms stopping usual activities or waking you at night\"\n  ],\n  \"urgent_gp\": [\n    \"you've had an asthma attack and have recovered\"\n  ],\n  \"call_911\": [\n    \"having an asthma attack and symptoms worsening\",\n    \"no improvement after maximum reliever dose\",\n    \"no asthma inhaler available\"\n  ]\n}",
+    "metadata": {
+      "condition": "Asthma Exacerbation",
+      "section": "red_flags",
+      "urgency": "high"
+    }
+  },
+  {
+    "text": "always have inhaler, use inhalers as recommended, avoid triggers, exercise regularly, keep a healthy weight, get vaccinations such as flu vaccine, do not smoke, check medicines with doctor or pharmacist",
+    "metadata": {
+      "condition": "Asthma Exacerbation",
+      "section": "home_treatment",
+      "urgency": "low"
+    }
+  },
+  {
+    "text": "https://www.nhs.uk/conditions/asthma/",
+    "metadata": {
+      "condition": "Asthma Exacerbation",
+      "section": "references",
+      "urgency": "low"
+    }
+  },
+  {
+    "text": "Heartburn is a burning feeling in the chest caused by stomach acid travelling up towards the throat (acid reflux). Recurrent heartburn may indicate gastroesophageal reflux disease (GERD).",
+    "metadata": {
+      "condition": "GERD (Acid Reflux)",
+      "section": "overview",
+      "urgency": "low"
+    }
+  },
+  {
+    "text": "heartburn \u2013 burning sensation in the middle of the chest, unpleasant sour taste in the mouth, cough or hiccups that keep coming back, hoarse voice, bad breath, bloating and feeling sick, backwash of food or sour liquid in the throat, upper belly or chest pain, trouble swallowing (dysphagia), sensation of a lump in the throat, nighttime acid reflux: ongoing cough, laryngitis, new or worsening asthma",
+    "metadata": {
+      "condition": "GERD (Acid Reflux)",
+      "section": "symptoms",
+      "urgency": "medium"
+    }
+  },
+  {
+    "text": "certain foods and drinks: coffee, tomatoes, alcohol, chocolate, fatty or spicy foods, being overweight, smoking, pregnancy, stress and anxiety, hormonal changes (progesterone, oestrogen), certain medications such as anti-inflammatory painkillers, hiatus hernia, stomach ulcer, bacterial infection in the stomach",
+    "metadata": {
+      "condition": "GERD (Acid Reflux)",
+      "section": "causes_risk_factors",
+      "urgency": "low"
+    }
+  },
+  {
+    "text": "eat smaller, more frequent meals, lose weight if overweight, relaxation techniques, avoid food and drink that trigger symptoms, do not eat within 3\u20134 hours before bed, avoid tight clothing around waist, do not smoke, limit alcohol, do not stop prescribed medicines without consulting a doctor",
+    "metadata": {
+      "condition": "GERD (Acid Reflux)",
+      "section": "home_treatment",
+      "urgency": "low"
+    }
+  },
+  {
+    "text": "{\n  \"see_gp\": [\n    \"lifestyle changes and pharmacy medicines not helping heartburn\",\n    \"heartburn most days\",\n    \"other symptoms: food stuck in throat, frequent vomiting, unexplained weight loss\",\n    \"taking nonprescription medicines for heartburn more than twice a week\"\n  ]\n}",
+    "metadata": {
+      "condition": "GERD (Acid Reflux)",
+      "section": "red_flags",
+      "urgency": "high"
+    }
+  },
+  {
+    "text": "esophagitis \u2013 inflammation of esophagus tissue, esophageal stricture \u2013 narrowing of esophagus, Barrett esophagus \u2013 precancerous changes in esophagus",
+    "metadata": {
+      "condition": "GERD (Acid Reflux)",
+      "section": "complications",
+      "urgency": "low"
+    }
+  },
+  {
+    "text": "https://www.nhs.uk/conditions/heartburn-and-acid-reflux/, https://www.mayoclinic.org/diseases-conditions/gerd/symptoms-causes/syc-20361940",
+    "metadata": {
+      "condition": "GERD (Acid Reflux)",
+      "section": "references",
+      "urgency": "low"
+    }
+  },
+  {
+    "text": "Flu (influenza) is a viral infection of the nose, throat, and lungs (respiratory system). It is distinct from gastrointestinal 'stomach flu' illnesses that cause vomiting or diarrhea.",
+    "metadata": {
+      "condition": "Flu",
+      "section": "overview",
+      "urgency": "low"
+    }
+  },
+  {
+    "text": "Viral infection (influenza viruses)",
+    "metadata": {
+      "condition": "Flu",
+      "section": "cause",
+      "urgency": "low"
+    }
+  },
+  {
+    "text": "fever or feeling feverish/chills, cough, sore throat, runny or stuffy nose, muscle or body aches, headaches, fatigue (tiredness), vomiting (more common in children), diarrhea (more common in children)",
+    "metadata": {
+      "condition": "Flu",
+      "section": "symptoms",
+      "urgency": "medium"
+    }
+  },
+  {
+    "text": "Appears quickly within a few hours, Affects more than just the nose and throat, Causes significant fatigue and malaise",
+    "metadata": {
+      "condition": "Flu",
+      "section": "distinguishing_features",
+      "urgency": "low"
+    }
+  },
+  {
+    "text": "{\n  \"call_911\": {\n    \"children\": [\n      \"Fast breathing or trouble breathing\",\n      \"Bluish lips or face\",\n      \"Ribs pulling in with each breath\",\n      \"Chest pain\",\n      \"Severe muscle pain (child refuses to walk)\",\n      \"Signs of dehydration (no urine for 8 hours, dry mouth, no tears when crying)\",\n      \"Not alert or interacting when awake\",\n      \"Seizures\",\n      \"Fever above 104\\u00b0F not controlled by medicine\",\n      \"Any fever in infants < 12 weeks\",\n      \"Fever or cough that improve but then worsen\",\n      \"Worsening of chronic medical conditions\"\n    ],\n    \"adults\": [\n      \"Difficulty breathing or shortness of breath\",\n      \"Persistent chest or abdominal pain/pressure\",\n      \"Persistent dizziness, confusion, or inability to wake\",\n      \"Seizures\",\n      \"Not urinating\",\n      \"Severe muscle pain\",\n      \"Severe weakness or unsteadiness\",\n      \"Fever or cough that improve but then worsen\",\n      \"Worsening of chronic medical conditions\"\n    ]\n  }\n}",
+    "metadata": {
+      "condition": "Flu",
+      "section": "red_flags",
+      "urgency": "high"
+    }
+  },
+  {
+    "text": "Typically lasts 2 days to 2 weeks.",
+    "metadata": {
+      "condition": "Flu",
+      "section": "duration",
+      "urgency": "low"
+    }
+  },
+  {
+    "text": "Sinus infections, Ear infections, Pneumonia (viral or bacterial), Myocarditis (heart inflammation), Encephalitis (brain inflammation), Myositis or rhabdomyolysis (muscle inflammation/breakdown), Multi-organ failure (respiratory or kidney failure), Sepsis, Worsening of chronic medical conditions (asthma, heart disease)",
+    "metadata": {
+      "condition": "Flu",
+      "section": "complications",
+      "urgency": "low"
+    }
+  },
+  {
+    "text": "Adults 65 years or older, People with chronic medical conditions (asthma, diabetes, heart disease), Pregnant women, Children under 5, especially under 2",
+    "metadata": {
+      "condition": "Flu",
+      "section": "high_risk_groups",
+      "urgency": "low"
+    }
+  },
+  {
+    "text": "Highly contagious. Symptoms typically begin 1\u20134 days after infection. Transmission can occur even before symptoms appear.",
+    "metadata": {
+      "condition": "Flu",
+      "section": "transmission",
+      "urgency": "low"
+    }
+  },
+  {
+    "text": "Rest and sleep, Keep warm, Use acetaminophen/paracetamol or ibuprofen to reduce fever and aches, Ensure hydration (urine should be light yellow or clear), Give age-appropriate fever reducers to children if needed",
+    "metadata": {
+      "condition": "Flu",
+      "section": "home_treatment",
+      "urgency": "low"
+    }
+  },
+  {
+    "text": "https://www.cdc.gov/flu/signs-symptoms/index.html, https://www.nhs.uk/conditions/flu/, https://www.mayoclinic.org/diseases-conditions/flu/symptoms-causes/syc-20351719",
+    "metadata": {
+      "condition": "Flu",
+      "section": "references",
+      "urgency": "low"
+    }
+  },
+  {
+    "text": "UTIs are common infections that happen when bacteria, often from the skin or rectum, enter the urethra and infect the urinary tract.",
+    "metadata": {
+      "condition": "Urinary Tract Infection (UTI)",
+      "section": "overview",
+      "urgency": "low"
+    }
+  },
+  {
+    "text": "pain or burning when peeing, needing to pee more often, needing to pee more often at night, urgency, cloudy pee, blood in pee, lower tummy pain or back pain, high or very low temperature, tiredness or weakness, pressure or cramping in the groin or lower abdomen, symptoms of kidney infection: fever, chills, lower back/side pain, nausea or vomiting, dark or smelly pee, children: high temperature, irritability, feeding issues, bedwetting, older adults: confusion, agitation, worsening incontinence, new shivering",
+    "metadata": {
+      "condition": "Urinary Tract Infection (UTI)",
+      "section": "symptoms",
+      "urgency": "medium"
+    }
+  },
+  {
+    "text": "Usually caused by bacteria from poo entering the urinary tract. Women have a shorter urethra making infection more likely. Other causes include sex, pregnancy, urinary blockages, catheter use, constipation, enlarged prostate, weakened immune system, dehydration.",
+    "metadata": {
+      "condition": "Urinary Tract Infection (UTI)",
+      "section": "cause",
+      "urgency": "low"
+    }
+  },
+  {
+    "text": "{\n  \"see_gp\": [\n    \"you think you have a UTI and are a woman/girl aged 16\\u201364, not pregnant or breastfeeding\"\n  ],\n  \"urgent_gp\": [\n    \"aged 65 or older\",\n    \"child aged 15 or younger\",\n    \"very high or low temperature, shivering\",\n    \"man or someone assigned male at birth\",\n    \"diabetes\",\n    \"symptoms worsen or do not improve in 48 hours\",\n    \"frequent UTIs\",\n    \"use a catheter\",\n    \"pregnant\",\n    \"pain in lower tummy or back\",\n    \"blood in pee\",\n    \"weakened immune system\"\n  ],\n  \"call_911\": [\n    \"you or your child are confused, drowsy, or have difficulty speaking\"\n  ]\n}",
+    "metadata": {
+      "condition": "Urinary Tract Infection (UTI)",
+      "section": "red_flags",
+      "urgency": "high"
+    }
+  },
+  {
+    "text": "kidney infection, sepsis",
+    "metadata": {
+      "condition": "Urinary Tract Infection (UTI)",
+      "section": "complications",
+      "urgency": "low"
+    }
+  },
+  {
+    "text": "females, previous UTI, recent sexual activity, changes in vaginal flora (menopause, spermicides), pregnancy, age: older adults and young children, structural urinary tract problems, poor hygiene in young children",
+    "metadata": {
+      "condition": "Urinary Tract Infection (UTI)",
+      "section": "people_at_risk",
+      "urgency": "low"
+    }
+  },
+  {
+    "text": "drink plenty of fluids, take antibiotics exactly as prescribed, do not share antibiotics, do not save antibiotics, contact provider if side effects occur",
+    "metadata": {
+      "condition": "Urinary Tract Infection (UTI)",
+      "section": "home_treatment",
+      "urgency": "low"
+    }
+  },
+  {
+    "text": "urinate after sexual activity, stay hydrated, take showers instead of baths, avoid douching, sprays, powders, teach girls to wipe front-to-back",
+    "metadata": {
+      "condition": "Urinary Tract Infection (UTI)",
+      "section": "prevention",
+      "urgency": "low"
+    }
+  },
+  {
+    "text": "https://www.cdc.gov/uti/about/index.html, https://www.nhs.uk/conditions/urinary-tract-infections-utis/",
+    "metadata": {
+      "condition": "Urinary Tract Infection (UTI)",
+      "section": "references",
+      "urgency": "low"
+    }
+  },
+  {
+    "text": "A tension-type headache causes mild to moderate pain that's often described as feeling like a tight band around the head. A tension-type headache is the most common type of headache, yet its causes aren't well understood.",
+    "metadata": {
+      "condition": "Tension headache",
+      "section": "overview",
+      "urgency": "low"
+    }
+  },
+  {
+    "text": "pain on both sides of your head, face or neck, feeling like something is pressing on your head or being tightened around it, the affected area may feel tender and your head may hurt more when touched, feeling of tightness or pressure across the forehead or on the sides and back of the head, tenderness in the scalp, neck and shoulder muscles, you should be able to continue doing daily activities without making the headache worse",
+    "metadata": {
+      "condition": "Tension headache",
+      "section": "symptoms",
+      "urgency": "medium"
+    }
+  },
+  {
+    "text": "Common causes include stress, sleep problems, caffeine. Taking painkillers for headaches too often or for a long time can also cause headaches (overuse or rebound headaches).",
+    "metadata": {
+      "condition": "Tension headache",
+      "section": "cause",
+      "urgency": "low"
+    }
+  },
+  {
+    "text": "Tension headaches last at least 30 minutes but they can last much longer, sometimes for several days.",
+    "metadata": {
+      "condition": "Tension headache",
+      "section": "duration",
+      "urgency": "low"
+    }
+  },
+  {
+    "text": "{\n  \"see_gp\": [\n    \"you get headaches several times a week or they're severe\",\n    \"painkillers and activities to help you relax do not help your headaches\",\n    \"you have a throbbing pain at the front, or on 1 side of, your head\",\n    \"you feel sick, vomit and find light or noise painful\"\n  ],\n  \"urgent_gp\": [\n    \"you or your child have a severe headache and: jaw pain when eating, blurred or double vision, a sore scalp, or other symptoms such as numbness or weakness in the arms or legs\",\n    \"child under 12 with a headache that wakes them at night\",\n    \"child under 12 with a headache when waking up\",\n    \"child under 12 with progressively worse headaches\",\n    \"child with headache triggered or made worse by coughing, sneezing or bending down\",\n    \"child with headache with vomiting\",\n    \"child with headache with a squint or inability to look upward\"\n  ],\n  \"call_911\": [\n    \"have a head injury\",\n    \"headache that came on suddenly and is extremely painful\",\n    \"sudden problems speaking or remembering things\",\n    \"loss of vision\",\n    \"feel drowsy or confused\",\n    \"very high temperature and symptoms of meningitis\",\n    \"the white part of the eye is red\",\n    \"child under 12 with vision problems or difficulty speaking, swallowing, balancing or walking\",\n    \"child under 12 with drowsiness or persistent lack of energy\",\n    \"child under 12 with headache that starts within 5 days of a head injury\"\n  ]\n}",
+    "metadata": {
+      "condition": "Tension headache",
+      "section": "red_flags",
+      "urgency": "high"
+    }
+  },
+  {
+    "text": "use painkillers like paracetamol, aspirin and ibuprofen, try activities to help you relax like exercise, yoga and massage, change sleeping habits if sleep problems may be causing headaches, use a low, firm pillow and heat or cold packs if you have neck pain, avoid caffeine or reduce intake",
+    "metadata": {
+      "condition": "Tension headache",
+      "section": "home_treatment",
+      "urgency": "low"
+    }
+  },
+  {
+    "text": "regular exercise, biofeedback training, cognitive behavioral therapy, relaxation techniques, healthy lifestyle: enough sleep, do not smoke, stay active, balanced meals, plenty of water, limit alcohol, caffeine, sugar",
+    "metadata": {
+      "condition": "Tension headache",
+      "section": "prevention",
+      "urgency": "low"
+    }
+  },
+  {
+    "text": "https://www.nhs.uk/conditions/tension-headaches/, https://www.mayoclinic.org/diseases-conditions/tension-headache/symptoms-causes/syc-20353977",
+    "metadata": {
+      "condition": "Tension headache",
+      "section": "references",
+      "urgency": "low"
+    }
+  },
+  {
+    "text": "Constipation is a change in bowel movements, including infrequent or difficult-to-pass stools. It is common across all ages and can usually be managed with diet and lifestyle changes.",
+    "metadata": {
+      "condition": "Constipation",
+      "section": "overview",
+      "urgency": "low"
+    }
+  },
+  {
+    "text": "fewer than 3 bowel movements in a week or less frequent than usual, poo is dry, hard, or lumpy, unusually large or small, straining or pain when passing stool, feeling of incomplete emptying, rectum feels blocked, need to use a finger to pass stool, stomach ache, bloating, or feeling sick, behavior changes in older adults, people with dementia or learning disabilities",
+    "metadata": {
+      "condition": "Constipation",
+      "section": "symptoms",
+      "urgency": "medium"
+    }
+  },
+  {
+    "text": "Chronic constipation: symptoms for three months or longer",
+    "metadata": {
+      "condition": "Constipation",
+      "section": "duration",
+      "urgency": "low"
+    }
+  },
+  {
+    "text": "low fiber diet, not drinking enough fluids, sedentary lifestyle, ignoring urge to go to toilet, changes in diet or daily routine, side effect of medication, stress, anxiety, or depression, pregnancy or postnatal changes, age over 65, rare medical conditions: diverticular disease, bowel cancer",
+    "metadata": {
+      "condition": "Constipation",
+      "section": "causes",
+      "urgency": "low"
+    }
+  },
+  {
+    "text": "eat high-fiber foods: vegetables, fruits, beans, whole grains, reduce low-fiber foods: processed foods, dairy, meats, drink plenty of fluids, stay physically active, do not ignore urge to defecate, establish regular toilet routine",
+    "metadata": {
+      "condition": "Constipation",
+      "section": "prevention",
+      "urgency": "low"
+    }
+  },
+  {
+    "text": "older age, female, low physical activity, mental health conditions (depression, eating disorders), use of opioid painkillers",
+    "metadata": {
+      "condition": "Constipation",
+      "section": "risk_factors",
+      "urgency": "low"
+    }
+  },
+  {
+    "text": "{\n  \"see_gp\": [\n    \"constipation not improving with treatment\",\n    \"regular constipation or bloating\",\n    \"blood in stool\",\n    \"unexplained weight loss\",\n    \"tiredness due to constipation\",\n    \"sudden changes in bowel habits\",\n    \"tummy pain\"\n  ]\n}",
+    "metadata": {
+      "condition": "Constipation",
+      "section": "red_flags",
+      "urgency": "high"
+    }
+  },
+  {
+    "text": "hemorrhoids, anal fissures, fecal impaction, rectal prolapse",
+    "metadata": {
+      "condition": "Constipation",
+      "section": "complications",
+      "urgency": "low"
+    }
+  },
+  {
+    "text": "https://www.mayoclinic.org/diseases-conditions/constipation/symptoms-causes/syc-20354253, https://www.nhs.uk/conditions/constipation/",
+    "metadata": {
+      "condition": "Constipation",
+      "section": "references",
+      "urgency": "low"
+    }
+  },
+  {
+    "text": "Angina is pain or tightness in the chest, often indicating a heart problem. It usually occurs when the heart does not get enough blood, commonly due to coronary heart disease.",
+    "metadata": {
+      "condition": "Angina",
+      "section": "overview",
+      "urgency": "low"
+    }
+  },
+  {
+    "text": "sudden pain in chest, neck, shoulders, jaw, or arms, tightness, squeezing, pressure, or dull ache, may cause nausea, breathlessness, dizziness, or sweating, attacks usually last less than 10 minutes, often triggered by exercise, stress, emotion, or cold temperatures",
+    "metadata": {
+      "condition": "Angina",
+      "section": "symptoms",
+      "urgency": "medium"
+    }
+  },
+  {
+    "text": "stop activity and rest, use prescribed angina medicine (usually glyceryl trinitrate/GTN), take a second dose after 5 minutes if symptoms persist, call 911 if symptoms remain after the second dose",
+    "metadata": {
+      "condition": "Angina",
+      "section": "home_treatment",
+      "urgency": "low"
+    }
+  },
+  {
+    "text": "{\n  \"call_911\": [\n    \"chest pain does not stop after resting or taking angina medicine\",\n    \"pain spreads to arm, neck, jaw, shoulder, stomach, or back\",\n    \"chest pain with sweating, nausea, light-headedness, or shortness of breath\"\n  ]\n}",
+    "metadata": {
+      "condition": "Angina",
+      "section": "red_flags",
+      "urgency": "high"
+    }
+  },
+  {
+    "text": "age: men \u226545, women \u226555, smoking, alcohol >14 units/week, obesity or overweight, high blood pressure or high cholesterol, previous heart problems (heart attack, arrhythmia), family history of heart problems, other conditions: diabetes, arthritis, kidney disease",
+    "metadata": {
+      "condition": "Angina",
+      "section": "risk_factors",
+      "urgency": "low"
+    }
+  },
+  {
+    "text": "avoid triggers like stress, cold temperatures, or large meals, carry and use angina medicine as instructed, quit smoking, maintain healthy weight, eat balanced diet, stay as active as symptoms allow, moderate alcohol consumption",
+    "metadata": {
+      "condition": "Angina",
+      "section": "prevention",
+      "urgency": "low"
+    }
+  },
+  {
+    "text": "https://www.cdc.gov/high-blood-pressure/data-research/facts-stats/index.html#cdc_facts_stats_high-blood-pressure-differences-by-sex-and-race",
+    "metadata": {
+      "condition": "Angina",
+      "section": "references",
+      "urgency": "low"
+    }
+  },
+  {
+    "text": "A heart attack is a serious medical emergency in which the blood supply to the heart is suddenly blocked, usually by a blood clot.",
+    "metadata": {
+      "condition": "Heart Attack (Myocardial Infarction, MI)",
+      "section": "overview",
+      "urgency": "low"
+    }
+  },
+  {
+    "text": "chest pain: pressure, heaviness, tightness, or squeezing, pain spreading to arms (usually left), jaw, neck, back, or tummy, lightheadedness or dizziness, sweating, shortness of breath, nausea or vomiting, anxiety, coughing or wheezing, some people may experience minor pain similar to indigestion",
+    "metadata": {
+      "condition": "Heart Attack (Myocardial Infarction, MI)",
+      "section": "symptoms",
+      "urgency": "medium"
+    }
+  },
+  {
+    "text": "coronary heart disease",
+    "metadata": {
+      "condition": "Heart Attack (Myocardial Infarction, MI)",
+      "section": "cause",
+      "urgency": "low"
+    }
+  },
+  {
+    "text": "age: men \u226545, women \u226555, tobacco use, long-term high blood pressure, high cholesterol or triglycerides, obesity, diabetes, metabolic syndrome, family history of heart attacks, physical inactivity, unhealthy diet: high in sugars, animal fats, processed foods, trans fats, and salt, stress (e.g., extreme anger), illegal drug use: cocaine, amphetamines, autoimmune conditions: rheumatoid arthritis, lupus",
+    "metadata": {
+      "condition": "Heart Attack (Myocardial Infarction, MI)",
+      "section": "risk_factors",
+      "urgency": "low"
+    }
+  },
+  {
+    "text": "quit smoking, maintain healthy weight, exercise regularly (\u2265150 minutes/week), eat low-fat, high-fibre diet with \u22655 portions of fruits/vegetables daily, moderate alcohol consumption",
+    "metadata": {
+      "condition": "Heart Attack (Myocardial Infarction, MI)",
+      "section": "prevention",
+      "urgency": "low"
+    }
+  },
+  {
+    "text": "Call 911 immediately if heart attack is suspected",
+    "metadata": {
+      "condition": "Heart Attack (Myocardial Infarction, MI)",
+      "section": "red_flags",
+      "urgency": "high"
+    }
+  },
+  {
+    "text": "https://www.nhs.uk/conditions/heart-attack/, https://www.mayoclinic.org/diseases-conditions/heart-attack/symptoms-causes/syc-20373106",
+    "metadata": {
+      "condition": "Heart Attack (Myocardial Infarction, MI)",
+      "section": "references",
+      "urgency": "low"
+    }
+  },
+  {
+    "text": "Appendicitis is swelling and infection in the appendix. It usually causes pain in the lower right side of the abdomen and needs urgent hospital treatment.",
+    "metadata": {
+      "condition": "Appendicitis",
+      "section": "overview",
+      "urgency": "low"
+    }
+  },
+  {
+    "text": "sudden pain in lower right belly or around belly button shifting to lower right, pain worsens with coughing, walking, or jarring movements, nausea and vomiting, loss of appetite, low-grade fever that may rise, constipation or diarrhea, bloating, gas, peeing more than usual, sudden confusion in older people",
+    "metadata": {
+      "condition": "Appendicitis",
+      "section": "symptoms",
+      "urgency": "medium"
+    }
+  },
+  {
+    "text": "age 10\u201330, slightly higher risk in men",
+    "metadata": {
+      "condition": "Appendicitis",
+      "section": "risk_factors",
+      "urgency": "low"
+    }
+  },
+  {
+    "text": "{\n  \"urgent_gp\": [\n    \"gradually worsening abdominal pain\",\n    \"pain moves to lower right abdomen\"\n  ],\n  \"call_911\": [\n    \"severe abdominal pain\",\n    \"confusion, blotchy/pale skin, difficulty breathing\"\n  ]\n}",
+    "metadata": {
+      "condition": "Appendicitis",
+      "section": "red_flags",
+      "urgency": "high"
+    }
+  },
+  {
+    "text": "wound infection, bleeding, scar tissue (adhesions) causing bowel blockage, abscess at site of appendix removal, stump appendicitis (in remaining appendix)",
+    "metadata": {
+      "condition": "Appendicitis",
+      "section": "possible_complications",
+      "urgency": "low"
+    }
+  },
+  {
+    "text": "soreness or redness around wound getting worse, bleeding or pus from wound, high temperature",
+    "metadata": {
+      "condition": "Appendicitis",
+      "section": "post_surgery_warning_signs",
+      "urgency": "low"
+    }
+  },
+  {
+    "text": "https://www.mayoclinic.org/diseases-conditions/appendicitis/symptoms-causes/syc-20369543, https://www.nhs.uk/conditions/appendicitis/",
+    "metadata": {
+      "condition": "Appendicitis",
+      "section": "references",
+      "urgency": "low"
+    }
+  },
+  {
+    "text": "Sinusitis is swelling of the sinuses, usually caused by an infection. It is common and usually clears up on its own within 4 weeks.",
+    "metadata": {
+      "condition": "Sinusitis",
+      "section": "overview",
+      "urgency": "low"
+    }
+  },
+  {
+    "text": "pain, swelling, and tenderness around cheeks, eyes, or forehead, blocked or runny nose, reduced sense of smell, green or yellow nasal mucus, high temperature, headache, toothache, bad breath, cough, pressure in ears, nasal voice or snoring, children may be irritable, have feeding difficulties, and breathe through mouth",
+    "metadata": {
+      "condition": "Sinusitis",
+      "section": "symptoms",
+      "urgency": "medium"
+    }
+  },
+  {
+    "text": "rest, drink plenty of fluids, take painkillers such as paracetamol or ibuprofen (not aspirin for children under 16), avoid triggers of allergies, do not smoke, clean nose with salt water solution",
+    "metadata": {
+      "condition": "Sinusitis",
+      "section": "home_treatment",
+      "urgency": "low"
+    }
+  },
+  {
+    "text": "{\n  \"see_gp\": [\n    \"symptoms not improving after 7 days of treatment from pharmacy or GP\",\n    \"symptoms not improving after 3 weeks of self-treatment\",\n    \"recurrent sinusitis\",\n    \"child aged 11 years or younger with symptoms\"\n  ],\n  \"urgent_gp\": [\n    \"very unwell\",\n    \"painkillers do not help or symptoms worsen\",\n    \"weakened immune system (e.g., chemotherapy)\"\n  ]\n}",
+    "metadata": {
+      "condition": "Sinusitis",
+      "section": "red_flags",
+      "urgency": "high"
+    }
+  },
+  {
+    "text": "https://www.nhs.uk/conditions/sinusitis-sinus-infection/",
+    "metadata": {
+      "condition": "Sinusitis",
+      "section": "references",
+      "urgency": "low"
+    }
+  },
+  {
+    "text": "A cold is a viral infection of the upper respiratory tract (also called an upper respiratory infection or URI). Colds usually last less than a week and are caused by different respiratory viruses.",
+    "metadata": {
+      "condition": "Common Cold",
+      "section": "overview",
+      "urgency": "low"
+    }
+  },
+  {
+    "text": "Runny nose or nasal congestion, Cough, Sneezing, Sore throat, Headache, Mild body aches, Fever (usually low grade in older children and adults)",
+    "metadata": {
+      "condition": "Common Cold",
+      "section": "symptoms",
+      "urgency": "medium"
+    }
+  },
+  {
+    "text": "Viral infection most likely the Rhinoviruses.",
+    "metadata": {
+      "condition": "Common Cold",
+      "section": "cause",
+      "urgency": "low"
+    }
+  },
+  {
+    "text": "Most viral diseases spread through droplets during coughing and sneezing. Some viruses can also spread through close personal contact, such as shaking hands with an infected person and then touching your eyes, nose, or mouth. Many respiratory viruses, like influenza virus and RSV, usually circulate during winter, but other viruses that can also cause cold symptoms circulate during spring, summer, or fall.",
+    "metadata": {
+      "condition": "Common Cold",
+      "section": "spread",
+      "urgency": "low"
+    }
+  },
+  {
+    "text": "Usually lasts less than a week and the symptoms peak within 2 to 3 days of infection.",
+    "metadata": {
+      "condition": "Common Cold",
+      "section": "duration",
+      "urgency": "low"
+    }
+  },
+  {
+    "text": "{\n  \"mild_moderate\": [\n    \"Middle ear infections (infection behind the ear drum)\",\n    \"Sinus infections\"\n  ],\n  \"severe\": [\n    \"Asthma attacks (wheezing, difficulty breathing)\",\n    \"Bronchiolitis (infection of the small airways)\",\n    \"Bronchitis (infection of the large airways)\",\n    \"Pneumonia (infection of the lungs)\",\n    \"Worsening of chronic medical conditions (for example, chronic obstructive pulmonary disease, heart failure)\"\n  ]\n}",
+    "metadata": {
+      "condition": "Common Cold",
+      "section": "complications",
+      "urgency": "low"
+    }
+  },
+  {
+    "text": "{\n  \"see_gp\": [\n    \"you have a high temperature for more than 3 days\",\n    \"your cold symptoms get worse\",\n    \"your temperature is very high or you feel hot and shivery\",\n    \"you feel short of breath or have chest pain\",\n    \"you're worried about your child's cold symptoms\",\n    \"your cold symptoms do not get better after 10 days\",\n    \"Dehydration\",\n    \"Trouble breathing or fast breathing\",\n    \"you have a cough for more than 3 weeks\",\n    \"you get cold symptoms and you have a long-term medical condition (for example, diabetes, or a heart, lung or kidney condition)\",\n    \"you get cold symptoms and you have a weakened immune system (for example, because you're having chemotherapy)\"\n  ]\n}",
+    "metadata": {
+      "condition": "Common Cold",
+      "section": "red_flags",
+      "urgency": "high"
+    }
+  },
+  {
+    "text": "{\n  \"dos\": [\n    \"get plenty of rest\",\n    \"drink lots of fluid, such as water, to avoid dehydration\",\n    \"eat healthy food\",\n    \"gargle salt water to soothe a sore throat (not suitable for children)\",\n    \"drink a hot lemon and honey drink to soothe a sore throat\",\n    \"breathe in steam to ease a blocked nose \\u2013 try sitting in the bathroom with a hot shower running\"\n  ],\n  \"donts\": [\n    \"do not let children breathe in steam from a bowl of hot water because of the risk of scalding\",\n    \"do not give aspirin to children under the age of 16\",\n    \"do not smoke as it can make your symptoms worse\"\n  ]\n}",
+    "metadata": {
+      "condition": "Common Cold",
+      "section": "treatment",
+      "urgency": "low"
+    }
+  },
+  {
+    "text": "Wash your hands., Clean and disinfect., Cover your cough., Don't share drinking glasses or silverware., Stay away from people with colds., Review your child care center's policies., Take care of yourself: eat well, exercise, sleep well.",
+    "metadata": {
+      "condition": "Common Cold",
+      "section": "prevention",
+      "urgency": "low"
+    }
+  },
+  {
+    "text": "Age: infants and young children have a greater risk, Weakened immune system, Time of year: fall and winter, Smoking, Exposure",
+    "metadata": {
+      "condition": "Common Cold",
+      "section": "risk_factors",
+      "urgency": "low"
+    }
+  },
+  {
+    "text": "https://www.nhs.uk/conditions/common-cold/, https://www.mayoclinic.org/diseases-conditions/common-cold/symptoms-causes/syc-20351605, https://www.cdc.gov/common-cold/about/",
+    "metadata": {
+      "condition": "Common Cold",
+      "section": "sources",
+      "urgency": "low"
+    }
+  }
+]
