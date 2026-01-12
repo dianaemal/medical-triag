@@ -22,100 +22,76 @@ def build_context(retrieved_docs):
     return context.strip()
 
 
-def build_prompt(context, user_query, state: TriagState):
+def build_prompt( user_query, state: TriagState):
 
     return f"""
     You are a medical triage assistant.
-You do NOT diagnose.
-You assess urgency only.
+    You do NOT diagnose.
+    You assess urgency only.
 
-Your goal is to assign a triage level as early as possible.
+    Important: If the user mentions ANY of these red flags, escalate immediately:
+    {', '.join(state.red_flags)}
 
-Before responding, silently decide:
-- Is the information sufficient to assign a triage level with reasonable uncertainty?
+    Your task:
+    - Decide if information is sufficient for triage based on the red flags above
+    - If NOT sufficient → ask ONE follow-up question
+    - Ask only the MOST informative question
+    - Ask at most {state.max_questions} total questions
+    - Don't repeat previous questions
+    - If red flags appear → escalate immediately and STOP asking questions
 
-If YES → output FINAL TRIAGE immediately.
-If NO → ask ONE follow-up question.
+    Conversation so far:
+    {state.build_memory()}
 
-Rules:
-- Ask at most {state.max_questions} total questions
-- If you have 0 questions remaining, you MUST output FINAL TRIAGE
-- Do NOT ask questions already asked
-- Be concise
-- No paragraphs
-- Always express uncertainty
-- Use ONLY the provided medical context
+    User input:
+    {user_query}
 
-CRITICAL SAFETY RULE:
-If ANY retrieved medical context has urgency = "high",
-you must immediately output FINAL TRIAGE.
-Do NOT ask follow-up questions.
+    Respond ONLY in JSON.
 
-Triage levels:
-- stay_home
-- see_gp
-- urgent_gp
-- call_911
+    If asking a question:
+    "type": "question",
+    "question": "...",
+    "confidence": 0.0–1.0
 
-Conversation so far:
-{state.build_memory()}
+    If giving final triage:
+    "type": "triage",
+    "level": "stay_home | see_gp | urgent_gp | call_911",
+    "confidence": "low | medium | high",
+    "what_to_do": [...],
+    "watch_for": [...]
 
-Medical context:
-{context}
-
-User input:
-{user_query}
-
-Respond ONLY in valid JSON.
-
-If asking a question:
-
-  "type": "question",
-  "question": "..."
-
-
-If giving final triage:
-
-  "type": "triage",
-  "level": "...",
-  "confidence": "low | medium | high",
-  "what_to_do": ["..."],
-  "watch_for": ["..."]
-
-
-   
-    """
+"""
 
 def build_final_prompt(context, state: TriagState):
     return f"""
-You are a medical triage assistant.
+    You are a medical triage assistant.
 
-IMPORTANT:
-- You are NOT allowed to ask questions
-- You MUST give a final triage decision
-- You MUST choose exactly one triage level
-- You do NOT diagnose
-- You MUST be brief and cautious
+    IMPORTANT:
+    - You are NOT allowed to ask questions
+    - You MUST give a final triage decision
+    - You MUST choose exactly one triage level
+    - You do NOT diagnose
+    - You MUST be brief and cautious
 
-TRIAGE LEVELS:
-- stay_home
-- see_gp
-- urgent_gp
-- call_911
+    TRIAGE LEVELS:
+    - stay_home
+    - see_gp
+    - urgent_gp
+    - call_911
 
-Conversation summary:
-{state.build_memory()}
+    Conversation summary:
+    {state.build_memory()}
 
-Medical context:
-{context}
+    Medical context:
+    {context}
 
-Respond ONLY in valid JSON:
+    Respond ONLY in valid JSON:
 
-"type": "triage",
-"level": "...",
-"confidence": "low | medium | high",
-"what_to_do": ["one short action"],
-"watch_for": ["one short warning"]
+    "type": "triage",
+    "level": "...",
+    "confidence": "low | medium | high",
+    "what_to_do": ["one short action"],
+    "watch_for": ["one short warning"]
 """
 
 
@@ -127,7 +103,7 @@ def ask_llm(prompt):
     return response["message"]["content"]
 
 if __name__ == "__main__":
-
+    confidence = 0.75
     index, documents = loader(
         "../embeddings/vector_store/faiss.index",
         "../embeddings/vector_store/documents.json"
@@ -137,16 +113,11 @@ if __name__ == "__main__":
 
     user_query = input("Describe your symptoms: ")
 
-    # 🔹 RAG ONCE
-    vector = embedding(user_query, "all-MiniLM-L6-v2")
-    retrieved = find_similarity(vector, 5, index, documents)
-    retrieved = filter_by_metadata(retrieved)
-
-    context = build_context(retrieved)
-
+   
+    
     while state.should_continue():
        
-        prompt = build_prompt(context, user_query, state)
+        prompt = build_prompt( user_query, state)
         output = ask_llm(prompt)
 
         print("\nMODEL OUTPUT:\n", output)
@@ -163,10 +134,19 @@ if __name__ == "__main__":
             break
 
         if result["type"] == "question":
+            if result["confidence"] >= confidence:
+                break
             answer = input(result["question"] + " ")
             state.add_turn(result["question"], answer)
             user_query = answer  # feed answer back to LLM
         
+
+    vector = embedding(state.build_summary(), "all-MiniLM-L6-v2")
+    retrieved = find_similarity(vector, 5, index, documents)
+    retrieved = filter_by_metadata(retrieved)
+
+    context = build_context(retrieved)
+
 
     if state.num_questions == state.max_questions:
         print("\nReaching final triage...\n")
