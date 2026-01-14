@@ -57,15 +57,15 @@ def filter_by_metadata(results, max_docs = 6):
 
 
 
+if __name__ == "__main__":
+    index, document = loader("../embeddings/vector_store/faiss.index", "../embeddings/vector_store/documents.json" )
+    vector = embedding("I am not feeling well", "all-MiniLM-L6-v2")
+    results1 = find_similarity(vector, 6, index, document)
+    results = filter_by_metadata(results1)
 
-index, document = loader("../embeddings/vector_store/faiss.index", "../embeddings/vector_store/documents.json" )
-vector = embedding("I am not feeling well", "all-MiniLM-L6-v2")
-results1 = find_similarity(vector, 6, index, document)
-results = filter_by_metadata(results1)
+    for r in results:
 
-for r in results:
-
-    print("----")
-    print("TEXT:", r["text"])
-    print("METADATA:", r["metadata"])
+        print("----")
+        print("TEXT:", r["text"])
+        print("METADATA:", r["metadata"])
 

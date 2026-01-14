@@ -2,7 +2,7 @@ class TriagState:
     def __init__(self):
         self.history = []          # [(question, answer)]
         self.num_questions = 0
-        self.max_questions = 5
+        self.max_questions = 3
       
 
         # red flag / urgent keywords
