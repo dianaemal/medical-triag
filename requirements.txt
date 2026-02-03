@@ -3,3 +3,11 @@ chromadb
 python-dotenv
 openai
 tiktoken
+fastapi
+uvicorn
+python-multipart
+pydantic
+ollama
+sentence-transformers
+faiss-cpu
+numpy
